@@ -1,0 +1,11 @@
+chool             so_cool
+0x02_vi     alx-low_level_programming  new_school    school_is_amazing
+root@fb7314264c9a:~# cd alx-low_level_programming
+root@fb7314264c9a:~/alx-low_level_programming# ls
+0x00-hello_world              0x04-more_functions_nested_loops
+0x01-variables_if_else_while  0x05-pointers_arrays_strings
+0x02-functions_nested_loops   0x06-pointers_arrays_strings
+0x03-debugging                README.md
+root@fb7314264c9a:~/alx-low_level_programming# mkdir 0x07-pointers_arrays_strings
+root@fb7314264c9a:~/alx-low_level_programming# vi
+
